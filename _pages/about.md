@@ -13,9 +13,9 @@ profile:
     <p>1971 Neil Ave, Baker Systems Room 520</p>
     <p>Columbus, Ohio 43235</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
 I am Ke Ding, a dedicated and enthusiastic individual specializing in Biomechanics and Ergonomics, with a rich academic background from The Ohio State University. My journey, accentuated with a B.S. in Mechanical Engineering and an M.S. in Biomedical Engineering, is now advancing towards a Ph.D. in Integrated Systems Engineering.
