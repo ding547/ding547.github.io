@@ -5,7 +5,7 @@ description: We offer several types of ergonomics training courses, which can be
 img: assets/img/Ergo Short Course Picture 05.jpg
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 I collaborate with our team to provide a range of ergonomics training courses tailored to meet the specific requirements of our clients. These courses are meticulously structured and can be adapted to suit various workplace settings. Each training program places a strong emphasis on evidence-based methodologies aimed at enhancing the overall ergonomics of workplaces. Our Certified Professional Ergonomists (CPEs) are dedicated to assisting you and your colleagues in achieving the following objectives:
