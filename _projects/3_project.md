@@ -8,11 +8,9 @@ importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I'm deeply engaged in addressing the limitations of current standard-of-care diagnostic techniques for low back pain. Traditionally, these methods rely heavily on static imaging modalities such as X-Ray, CT, and MRI, which are conducted while patients are in a recumbent position. However, it's well-documented that these static imaging tests often fail to pinpoint the exact cause of pain in a significant majority—over 85%—of low back pain patients. This discrepancy is unsurprising, given that the behavior of spine tissues differs significantly when they're subjected to gravitational loads and dynamic motion.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Our research focuses on developing personalized biomechanical models that merge data from our Spine Health Assessment with CT and MR imaging data. By doing so, we aim to quantify the dynamic forces acting on an individual's spine. We believe that these advanced models hold immense potential in assisting physicians to accurately identify the underlying cause of a patient's symptoms and chart a more precise and tailored course of treatment.
 
     ---
     layout: page
