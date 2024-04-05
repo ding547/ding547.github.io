@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Mission
+description: Our mission at the Spine Research Institute is to systematically improve the way we prevent, evaluate, and treat spine and other musculoskeletal disorders through causal pathways research, education, and the development of platform technologies.
 img:
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
