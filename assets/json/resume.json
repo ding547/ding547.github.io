@@ -67,7 +67,7 @@
       "score": "3.95/4",
       "courses": ["Mechanobiology of the Musculoskeletal system","Polymers in Bioengineering","Advanced Numerical Simulations and Modeling"]
      }
-    
+  ], 
   "awards": [
     {
       "title": "Nobel Prize in Physics",
@@ -77,7 +77,6 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-
   "certificates": [
     {
       "name": "Certified SOLIDWORKS Professional (CSWP)",
