@@ -1,77 +1,77 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ke Ding",
+    "label": "Graduate Research Assistant",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ding.547@buckeyemail.osu.edu",
+    "phone": "(614) 214-8615",
+    "url": "https://ding547.github.io",
+    "summary": "An ambitious individual with expertise in Biomechanics and Ergonomics, boasting a distinguished academic journey from The Ohio State University culminating in a Ph.D. in Integrated Systems Engineering",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "1971 Neil Ave, Baker Systems Room 520",
+      "postalCode": "OH 43235",
+      "city": "Columbus",
       "countryCode": "US",
-      "region": "California"
+      "region": "Ohio"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "Ke Ding",
+        "url": "https://www.linkedin.com/in/ke-ding-125742ba/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "The Ohio State University",
+      "position": "Graduate Research Assistant",
+      "url": "https://www.osu.edu",
+      "startDate": "2023-01",
+      "endDate": "2028-12",
+      "summary": "Investigated the use of motion characteristics to differentiate between individuals who are performing a sincere effort from those who are exaggerating their condition or pain.",
+      "highlights": ["Lumbar Motion Monitor, IMU sensors"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "38th Annual Edward F. Hays Advanced Research Forum",
+      "position": "Session Chair",
+      "url": "https://cgs.osu.edu/programs-events/edward-f-hayes-advanced-research-forum",
+      "startDate": "2024-03",
+      "endDate": "2024-03",
+      "summary": "Organized and led the postdoc group sessions for the Arts/Humanities/Social Science category at the 36th Edward F. Hays Graduate Research Forum.",
+      "highlights": ["Ensured smooth and efficient operation of the session, including managing time constraints and resolving any logistical issues."]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "The Ohio State University, Columbus, Ohio",
+      "location": "Columbus, Ohio",
+      "url": "https://www.osu.edu",
+      "area": "Human Factor and Ergonomic",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2023-01",
+      "endDate": "2028-12",
+      "score": "3.88/4",
+      "courses": ["Risk Assessment Tools for Occupational Musculoskeletal Disorders","Ergonomics in the Product Design Process","Principles of Occupational Biomechanics and Ergonomics"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Dean's List Recognition",
+      "date": "2020-2022",
+      "awarder": "The Ohio State University",
+      "url": "https://www.osu.edu",
+      "summary": "Recognition for academic excellence as a Dean's List awardee for three consecutive years at The Ohio State University."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Certified SOLIDWORKS Professional (CSWP)",
+      "date": "2020-06",
+      "issuer": "SOLIDWORKS",
+      "url": "https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-9A42GCTUL3",
       "icon": "fa-solid fa-location-dot"
     },
     {
@@ -112,11 +112,11 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Modeling the Effects of Hydration on Viscoelastic Properties of Nucleus Pulposus Tissue in Shear and Compression using the Fractional Zener Model.",
+      "publisher": "2023 ORS Annual Meeting, and ORS PSRS 5th International Spine Research Symposium.",
+      "releaseDate": "2022-11",
+      "url": "https://www.ors.org/2023annualmeeting/",
+      "summary": "Explored DNA origami sensor function to see if it is affected by hydrostatic pressure; analyzed the capability of DNA origami sensors to discern spatial changes in ion concentration inside a microfluidic device- generated ion gradient."
     },
     {
       "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
@@ -135,22 +135,22 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Engineering",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "CATIA and LS-DYNA, Certified SOLIDWORKS Professional (CSWP)",
+        "MATLAB, Python",
+        "AutoCAD, Autodesk 3ds Max",
+        "OptiTrack motion capture systems",
+        "Lumber Motion Monitor",
+        "Rheometer"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -162,15 +162,15 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Ergonomic",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Low back pain",
+        "Spine",
+        "Human factor",
+        "Lumbar motion",
+        "Occupational biomechanics ",
+        "Biomedical Microdevice"
       ]
     }
   ],
@@ -188,12 +188,12 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Efficacy Assessment of Endoscopic Procedure Engineering Control",
+      "summary": "Mitigate work-related musculoskeletal disorders (WRMSD) in gastroenterologists by evaluating the effectiveness of a novel intervention - a strap designed to support the left hand during endoscopic procedures.",
+      "highlights": ["Work-related Musculoskeletal Disorders", "Endoscopic Procedure Ergonomics", "Support Strap Efficacy Evaluation"],
+      "startDate": "2024-02",
+      "endDate": "2024-12",
+      "url": "https://u.osu.edu/engineeringlab4hfes/"
     }
   ]
 }
