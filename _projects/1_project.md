@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Personalized Medicine
+description: Patients with low back and neck pain suffer significantly reduced quality of life, and it is often difficult to determine the optimal course of treatment for an individual.
 img: assets/img/cancersurgery2.jpg
 importance: 1
 category: work
