@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Training
+description: We offer several types of ergonomics training courses, which can be customized and structured to fit our clients' needs. 
+img: assets/img/Ergo Short Course Picture 05.jpg
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.
