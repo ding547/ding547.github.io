@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Ke Ding, a dedicated and enthusiastic individual specializing in Biomechanics and Ergonomics, with a rich academic background from The Ohio State University. My journey, accentuated with a B.S. in Mechanical Engineering and an M.S. in Biomedical Engineering, is now advancing towards a Ph.D. in Integrated Systems Engineering.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current endeavors at The Spine Research Institute revolve around meticulous analysis and characterization of digital health information for low back and neck, enhancing the understanding of associated disorders. My experience at Dr. Benjamin Walter’s Lab allowed me to delve deep into the mechanobiology of the musculoskeletal system, focusing on the nuanced aspects of nucleus pulposus in the intervertebral disc.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I passionately pursue excellence and innovation in biomechanics, with an emphasis on ergonomics, endeavoring to bridge the gap between theoretical principles and practical applications, aiming for breakthroughs that are conducive to human health and well-being.
