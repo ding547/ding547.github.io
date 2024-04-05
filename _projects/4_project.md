@@ -3,7 +3,7 @@ layout: page
 title: Mission
 description: Our mission at the Spine Research Institute is to systematically improve the way we prevent, evaluate, and treat spine and other musculoskeletal disorders through causal pathways research, education, and the development of platform technologies.
 img:
-importance: 3
+importance: 4
 category: work
 ---
 
