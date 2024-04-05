@@ -12,17 +12,13 @@ As a doctoral student at the Spine Research Institute (SRI), I collaborate close
 
 Consequently, a substantial portion of our research endeavors and platform technology development initiatives are geared towards exploring innovative solutions. The objective is to furnish healthcare professionals and patients alike with enhanced insights throughout the care continuum. By doing so, we aim to facilitate the delivery of more effective and efficient care, ultimately improving patient outcomes.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/cancersurgery2.jpg
     ---
 
 <div class="row">
