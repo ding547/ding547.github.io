@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
+title: Virtual Diagnostics
 description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+img: assets/img/lmm_model.jpg
+redirect: https://spine.osu.edu/patient-health/virtual-diagnostics
 importance: 3
 category: work
 ---
