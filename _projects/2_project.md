@@ -8,11 +8,15 @@ category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I collaborate with our team to provide a range of ergonomics training courses tailored to meet the specific requirements of our clients. These courses are meticulously structured and can be adapted to suit various workplace settings. Each training program places a strong emphasis on evidence-based methodologies aimed at enhancing the overall ergonomics of workplaces. Our Certified Professional Ergonomists (CPEs) are dedicated to assisting you and your colleagues in achieving the following objectives:
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Developing a comprehensive understanding of the factors contributing to workplace musculoskeletal disorders.
+
+Learning to identify potential injury risks through the utilization of the latest tools and techniques endorsed by industry best practices.
+
+Selecting and implementing suitable countermeasures to mitigate ergonomic hazards effectively.
+
+Gaining insights into integrating ergonomic initiatives seamlessly into day-to-day workplace operations.
 
     ---
     layout: page
