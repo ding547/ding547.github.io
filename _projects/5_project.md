@@ -1,16 +1,14 @@
 ---
 layout: page
-title: Virtual Diagnostics
+title: Spinal Loading During Manual Materials Handling In A Kneeling Posture
 description: a project that redirects to another website
-img: assets/img/lmm_model.jpg
-redirect: https://spine.osu.edu/patient-health/virtual-diagnostics
-importance: 3
+img: assets/img/kneeling-lift.jpg
+redirect: https://spine.osu.edu/sites/default/files/uploads/Publications/2007/JournalOfElectromyographyAndKinesiology_2007_17_25-34.pdf
+importance: 5
 category: work
 ---
 
-I'm deeply engaged in addressing the limitations of current standard-of-care diagnostic techniques for low back pain. Traditionally, these methods rely heavily on static imaging modalities such as X-Ray, CT, and MRI, which are conducted while patients are in a recumbent position. However, it's well-documented that these static imaging tests often fail to pinpoint the exact cause of pain in a significant majority—over 85%—of low back pain patients. This discrepancy is unsurprising, given that the behavior of spine tissues differs significantly when they're subjected to gravitational loads and dynamic motion.
-
-Our research focuses on developing personalized biomechanical models that merge data from our Spine Health Assessment with CT and MR imaging data. By doing so, we aim to quantify the dynamic forces acting on an individual's spine. We believe that these advanced models hold immense potential in assisting physicians to accurately identify the underlying cause of a patient's symptoms and chart a more precise and tailored course of treatment.
+Stooped, restricted, kneeling, and other awkward postures adopted during manual materials handling (MMH) have frequently been associated with LBP.  However, lift assessment tools have focused on materials handling performed in an upright, or nearly upright standing postures. Many of the tools designed to analyze standing postures are not easily adapted to jobs requiring restricted postures. The objective of this study was to evaluate spinal loading during MMH in kneeling postures and determine if those loads can be predicted using simple regression.  Spine loads in kneeling postures were found to be independently sensitive to both the weight lifted and the final destination height. Increasing both weight and destination height increased spinal compression and AP and lateral shear.  These effects can be used to estimate spinal loading using easy-to-measure variables such as subject height, lift destination height, and load weight.
 
     ---
     layout: page
