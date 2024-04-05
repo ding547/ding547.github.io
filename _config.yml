@@ -471,10 +471,10 @@ jsonresume:
   - basics
   - work
   - education
-  #- publications
+  - publications
   - projects
   - volunteer
-  #- awards
+  - awards
   - certificates
   - skills
   - languages
