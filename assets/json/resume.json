@@ -30,7 +30,7 @@
       "startDate": "2023-08",
       "endDate": "2028-05",
       "summary": "Investigated the use of motion characteristics to differentiate between individuals who are performing a sincere effort from those who are exaggerating their condition or pain.",
-      "highlights": ["Relativity"]
+      "highlights": ["Lumbar Motion Monitor, IMU sensors"]
     }
   ],
   "volunteer": [
@@ -56,6 +56,18 @@
       "score": "3.88/4",
       "courses": ["Risk Assessment Tools for Occupational Musculoskeletal Disorders","Ergonomics in the Product Design Process","Principles of Occupational Biomechanics and Ergonomics"]
     }
+    {
+      "institution": "The Ohio State University, Columbus, Ohio",
+      "location": "Columbus, Ohio",
+      "url": "https://www.osu.edu",
+      "area": "Biomedical",
+      "studyType": "Master",
+      "startDate": "2021-01",
+      "endDate": "2022-12",
+      "score": "3.95/4",
+      "courses": ["Mechanobiology of the Musculoskeletal system","Polymers in Bioengineering","Advanced Numerical Simulations and Modeling"]
+     }
+    
   ],
   "awards": [
     {
