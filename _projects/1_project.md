@@ -13,14 +13,6 @@ As a doctoral student at the Spine Research Institute (SRI), I collaborate close
 Consequently, a substantial portion of our research endeavors and platform technology development initiatives are geared towards exploring innovative solutions. The objective is to furnish healthcare professionals and patients alike with enhanced insights throughout the care continuum. By doing so, we aim to facilitate the delivery of more effective and efficient care, ultimately improving patient outcomes.
 
 
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/cancersurgery2.jpg
-    ---
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/doctor-patient-looking-at-xray.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -33,16 +25,7 @@ Consequently, a substantial portion of our research endeavors and platform techn
     </div>
 </div>
 <div class="caption">
-    Personalized medicine is an exciting and rapidly evolving field that has the potential to transform healthcare delivery. .
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+    Personalized medicine is an exciting and rapidly evolving field that has the potential to transform healthcare delivery. 
 
 You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
