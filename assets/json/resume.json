@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "Ke Ding",
+        "url": "https://www.linkedin.com/in/ke-ding-125742ba/"
       }
     ]
   },
@@ -41,7 +41,7 @@
       "startDate": "2024-03",
       "endDate": "2024-03",
       "summary": "Organized and led the postdoc group sessions for the Arts/Humanities/Social Science category at the 36th Edward F. Hays Graduate Research Forum",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "highlights": ["Ensured smooth and efficient operation of the session, including managing time constraints and resolving any logistical issues."]
     }
   ],
   "education": [
@@ -150,7 +150,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -162,15 +162,15 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Ergonomic",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Low back pain",
+        "Spine",
+        "Human factor",
+        "Lumbar motion",
+        "Occupational biomechanics ",
+        "Biomedical Microdevice"
       ]
     }
   ],
