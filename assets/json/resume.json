@@ -80,20 +80,6 @@
       "issuer": "N/A",
       "url": "N/A",
       "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Will be published soon, so stay tuned",
-      "date": "N/A",
-      "issuer": "N/A",
-      "url": "N/A",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Will be published soon, so stay tuned",
-      "date": "N/A",
-      "issuer": "N/A",
-      "url": "N/A",
-      "icon": "fa-solid fa-tag"
     }
   ],
   "publications": [
@@ -103,13 +89,6 @@
       "releaseDate": "2022-11",
       "url": "https://www.ors.org/2023annualmeeting/",
       "summary": "Explored DNA origami sensor function to see if it is affected by hydrostatic pressure; analyzed the capability of DNA origami sensors to discern spatial changes in ion concentration inside a microfluidic device- generated ion gradient."
-    },
-    {
-      "name": "Will be published soon, so stay tuned",
-      "publisher": "N/A",
-      "releaseDate": "N/A",
-      "url": "N/A",
-      "summary": "N/A"
     },
     {
       "name": "Will be published soon, so stay tuned",
