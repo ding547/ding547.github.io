@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Spinal Loading During Manual Materials Handling In A Kneeling Posture
+description: Increasing both weight and destination height increased spinal compression and AP and lateral shear.  These effects can be used to estimate spinal loading using easy-to-measure variables such as subject height, lift destination height, and load weight.
+img: assets/img/kneeling-lift.jpg
 importance: 3
 category: fun
 ---
