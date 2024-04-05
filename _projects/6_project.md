@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Purpose
+description: We are united by our core purpose, which is to lessen the physical, emotional, and financial suffering imposed by spine and other musculoskeletal disorders.
 img:
 importance: 4
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
