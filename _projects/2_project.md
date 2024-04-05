@@ -5,7 +5,7 @@ description: We offer several types of ergonomics training courses, which can be
 img: assets/img/Ergo Short Course Picture 05.jpg
 importance: 2
 category: work
-giscus_comments: false
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
